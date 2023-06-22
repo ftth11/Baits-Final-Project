@@ -1,2 +1,2 @@
 https://baits-final-project-batch7.netlify.app/
-https://github.com/ftth11/Baits-Final-Project/tree/main
+https://github.com/ftth11/Baits-Final-Project
